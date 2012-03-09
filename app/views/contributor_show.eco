@@ -1,9 +1,10 @@
-<header>
-  <a class="edit">Edit</a>
-</header>
+<div class="container">
 
-<div class="content">
-  <p><%= @name %></p>
-  <p><%= @email %></p>
+  <h1>Edit</h1>
+
+  <div class="content">
+    <p><%= @name %></p>
+    <p><%= @email %></p>
+  </div>
 </div>
 

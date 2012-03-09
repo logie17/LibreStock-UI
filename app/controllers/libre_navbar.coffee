@@ -12,7 +12,7 @@ class Navbar extends Spine.Controller
 
   events:
     'keyup input[type=search]': 'filter'
-    'click .navbar #contributor': 'create'
+    'click #contribute_link': 'create'
 
   constructor: ->
     super

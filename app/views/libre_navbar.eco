@@ -1,7 +1,24 @@
-<header>
-  <input type="search" placeholder="search" results="0" incremental="true" autofocus>
-</header>
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
 
-<ul class="navbar">
-  <li><a id="contributor" href="#">Contribute!</a></li>
-</ul>
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand" href="#">LibreStock</a>
+      <div class="nav-collapse">
+        <ul class="nav">
+
+          <li class="active"><a href="#">Home</a></li>
+          <li><a id="contribute_link" class="navbar-text" href="#">Contribute!</a></li>
+        </ul>
+        <form class="navbar-form pull-right">
+            <input type="search" placeholder="image search" results="0" incremental="true" autofocus>
+        </form>
+      </div><!--/.nav-collapse -->
+    </div>
+  </div>
+
+</div>
