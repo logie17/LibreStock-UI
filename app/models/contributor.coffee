@@ -1,10 +1,12 @@
 Spine = require('spine')
 
-class Subscriber extends Spine.Model
-  # Configure name & attributes
-  @configure 'Subscriber', 'first_name', 'last_name', 'username', 'email', 'password'
+#Spine.Model.host = "http://localhost:5000"
 
-  # Persist with Local Storage
+class Contributor extends Spine.Model
+  # Configure name & attributes
+  @configure 'Contributor', 'name', 'email'
+
+  #@extend Spine.Model.Ajax
   @extend @Local
 
   @filter: (query) ->
@@ -14,4 +16,4 @@ class Subscriber extends Spine.Model
       item.name?.toLowerCase().indexOf(query) isnt -1 or
         item.email?.toLowerCase().indexOf(query) isnt -1
 
-module.exports = Subscriber
+module.exports = Contributor

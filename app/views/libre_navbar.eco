@@ -1,0 +1,7 @@
+<header>
+  <input type="search" placeholder="search" results="0" incremental="true" autofocus>
+</header>
+
+<ul class="navbar">
+  <li><a id="contributor" href="#">Contribute!</a></li>
+</ul>

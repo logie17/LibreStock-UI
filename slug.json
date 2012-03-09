@@ -5,6 +5,7 @@
     "jqueryify", 
     "spine",
     "spine/lib/local",
+    "spine/lib/list",
     "spine/lib/ajax",
     "spine/lib/route",
     "spine/lib/tmpl",
