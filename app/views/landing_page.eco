@@ -1,0 +1,88 @@
+<div id="myCarousel" class="carousel" style="margin-top:-60px">
+    <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item"><img src="assets/img/102276468.jpg"/></div>
+    <div class="item"><img src="assets/img/103603890.jpg"/></div>
+    <div class="item"><img src="assets/img/103606937.jpg"/></div>
+    <div class="item"><img src="assets/img/103609940.jpg"/></div>
+    <div class="item"><img src="assets/img/103612197.jpg"/></div>
+    <div class="item"><img src="assets/img/106973411.jpg"/></div>
+    <div class="item"><img src="assets/img/107028287.jpg"/></div>
+    <div class="item"><img src="assets/img/107435314.jpg"/></div>
+    <div class="item"><img src="assets/img/108248319.jpg"/></div>
+    <div class="item"><img src="assets/img/109895014.jpg"/></div>
+    <div class="item"><img src="assets/img/109971561.jpg"/></div>
+    <div class="item"><img src="assets/img/110342052.jpg"/></div>
+    <div class="item"><img src="assets/img/113815495.jpg"/></div>
+    <div class="item"><img src="assets/img/1279629926.jpg"/></div>
+    <div class="item"><img src="assets/img/138828938.jpg"/></div>
+    <div class="item"><img src="assets/img/1405557832.jpg"/></div>
+    <div class="item"><img src="assets/img/145214782.jpg"/></div>
+    <div class="item"><img src="assets/img/145328822.jpg"/></div>
+    <div class="item"><img src="assets/img/148557491.jpg"/></div>
+    <div class="item"><img src="assets/img/150153491.jpg"/></div>
+    <div class="item"><img src="assets/img/150163794.jpg"/></div>
+    <div class="item"><img src="assets/img/160500603.jpg"/></div>
+    <div class="item"><img src="assets/img/166691841.jpg"/></div>
+    <div class="item"><img src="assets/img/166695307.jpg"/></div>
+    <div class="item"><img src="assets/img/173410984.jpg"/></div>
+    <div class="item"><img src="assets/img/193798762.jpg"/></div>
+    <div class="item"><img src="assets/img/194385901.jpg"/></div>
+    <div class="item"><img src="assets/img/2060251462.jpg"/></div>
+    <div class="item"><img src="assets/img/211245920.jpg"/></div>
+    <div class="item"><img src="assets/img/211250138.jpg"/></div>
+    <div class="item"><img src="assets/img/211268479.jpg"/></div>
+    <div class="item"><img src="assets/img/211269759.jpg"/></div>
+    <div class="item"><img src="assets/img/213466996.jpg"/></div>
+    <div class="item"><img src="assets/img/2144471095.jpg"/></div>
+    <div class="item"><img src="assets/img/215450749.jpg"/></div>
+    <div class="item"><img src="assets/img/215478765.jpg"/></div>
+    <div class="item"><img src="assets/img/2181230450.jpg"/></div>
+    <div class="item"><img src="assets/img/228799878.jpg"/></div>
+    <div class="item"><img src="assets/img/234511184.jpg"/></div>
+    <div class="item"><img src="assets/img/2411182139.jpg"/></div>
+    <div class="item"><img src="assets/img/2454077309.jpg"/></div>
+    <div class="item"><img src="assets/img/2460232652.jpg"/></div>
+    <div class="item"><img src="assets/img/2511066613.jpg"/></div>
+    <div class="item"><img src="assets/img/2551158510.jpg"/></div>
+    <div class="item"><img src="assets/img/2570572126.jpg"/></div>
+    <div class="item"><img src="assets/img/2614552411.jpg"/></div>
+    <div class="item"><img src="assets/img/2617484687.jpg"/></div>
+    <div class="item"><img src="assets/img/2659714214.jpg"/></div>
+    <div class="item"><img src="assets/img/2863830818.jpg"/></div>
+    <div class="item"><img src="assets/img/326695409.jpg"/></div>
+    <div class="item"><img src="assets/img/326707945.jpg"/></div>
+    <div class="item"><img src="assets/img/3901954189.jpg"/></div>
+    <div class="item"><img src="assets/img/423491925.jpg"/></div>
+    <div class="item"><img src="assets/img/425352454.jpg"/></div>
+    <div class="item"><img src="assets/img/434402838.jpg"/></div>
+    <div class="item"><img src="assets/img/434432972.jpg"/></div>
+    <div class="item"><img src="assets/img/434481409.jpg"/></div>
+    <div class="item"><img src="assets/img/435106630.jpg"/></div>
+    <div class="item"><img src="assets/img/435736600.jpg"/></div>
+    <div class="item"><img src="assets/img/435881928.jpg"/></div>
+    <div class="item"><img src="assets/img/445595825.jpg"/></div>
+    <div class="item"><img src="assets/img/446120811.jpg"/></div>
+    <div class="item"><img src="assets/img/447155318.jpg"/></div>
+    <div class="item"><img src="assets/img/448758055.jpg"/></div>
+    <div class="item"><img src="assets/img/4797235053.jpg"/></div>
+    <div class="item"><img src="assets/img/479862260.jpg"/></div>
+    <div class="item"><img src="assets/img/508837347.jpg"/></div>
+    <div class="item"><img src="assets/img/512265497.jpg"/></div>
+    <div class="item"><img src="assets/img/513962177.jpg"/></div>
+    <div class="item"><img src="assets/img/519205727.jpg"/></div>
+    <div class="item"><img src="assets/img/535002973.jpg"/></div>
+    <div class="item"><img src="assets/img/557391693.jpg"/></div>
+    <div class="item"><img src="assets/img/738058993.jpg"/></div>
+    <div class="item"><img src="assets/img/990880242.jpg"/></div>
+</div>
+<!-- Carousel nav -->
+<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
+    <script src="assets/js/bootstrap-carousel.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" charset="utf-8">
+    jQuery(document).ready(function(){
+        jQuery('.carousel').carousel();
+    });
+    </script>
